@@ -1,0 +1,14 @@
+nom_escuderia,nom,data_inici,data_fi
+Ferrari,Harley,01-01-2018,01-02-2018
+Ferrari,Davidson,01-01-2018,null
+Ferrari,Kawasaki,02-05-2017,01-12-2017
+Ferrari,Kawasaki,01-01-2018,01-02-2018
+Ferrari,Kawasaki,02-02-2018,null
+McLaren,Lola,01-01-2017,01-05-2017
+McLaren,Lola,01-05-2018,null
+McLaren,Pepe,01-01-2018,01-02-2018
+McLaren,Pepe,02-02-2018,01-03-2018
+McLaren,Pepa,01-01-2018,null
+Renault,Antonio,01-01-2018,null
+Renault,Pedro,01-01-2018,null
+Renault,Jose,01-01-2018,null
