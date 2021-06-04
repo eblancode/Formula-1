@@ -5,8 +5,8 @@ Pre-requisites:
 
 Test it:
 - Install & run Netbeans.
-- Install/Implement Swing libary & .jar files.
 - Import project.
+- Install/Implement Swing libary & .jar files.
 - Open the project "Formula 1" and run it.
 
 Use it with DB functionality:
