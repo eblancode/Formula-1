@@ -1,6 +1,11 @@
 # Formula-1
+Pre-requisites:
+- JDK Java 8
+- NetBeans
+
 Test it:
 - Install & run Netbeans.
+- Install/Implement Swing libary & .jar files.
 - Import project.
 - Open the project "Formula 1" and run it.
 
