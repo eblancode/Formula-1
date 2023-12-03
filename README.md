@@ -1,7 +1,7 @@
 # Formula-1
 Pre-requisites:
 - JDK Java 8
-- NetBeans
+- Java IDE (Netbeans, Eclipse ...)
 
 Test it:
 - Install & run Netbeans.
